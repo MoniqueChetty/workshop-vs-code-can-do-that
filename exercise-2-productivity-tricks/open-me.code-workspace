@@ -15,6 +15,6 @@
 			"**/{solution,start}/**": true,
 			"**/*.code-workspace": true
 		},
-		"liveServer.settings.multiRootWorkspaceName": "start"
+		"liveServer.settings.multiRootWorkspaceName": "exercise-2-productivity-tricks"
 	}
 }
